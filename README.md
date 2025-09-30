@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 3rd Year Computer Science Major<br>💡 Passionate about Web Development <br>🖥 Student at SIT Pune | Ex-IT Intern</p>
+<p align="left">🎓 4rd Year Computer Science Major<br>💡 Passionate about Web Development <br>🖥 Student at SIT Pune | Ex-IT Intern</p>
 
 ###
 
