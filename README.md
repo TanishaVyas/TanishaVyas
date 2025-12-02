@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on projects involving Angular, and SQL , Flutter<br>🌱 Learning more about cloud computing and how it can support efficient data management.<br>👩‍💻 Actively building personal projects to improve my skills in frontend development (though I’m more inclined towards backend).</p>
+<p align="left">🔭 I’m currently working on projects involving Angular, SQL , Flutter<br>🌱 Learning more about cloud computing and how it can support efficient data management.<br>👩‍💻 Actively building personal projects to improve my skills in frontend development.</p>
 
 ###
 
